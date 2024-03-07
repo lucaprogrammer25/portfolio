@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1.3rem;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+}
+
+.item{
+    font-size: 18px;
+}
+
+.item a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
